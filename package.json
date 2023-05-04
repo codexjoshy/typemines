@@ -1,0 +1,34 @@
+{
+  "name": "typemines",
+  "version": "1.0.0",
+  "description": "just to learn more on typesscript features",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codexjoshy/typemines.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "typescript"
+  ],
+  "author": "Joshua Ebhoria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codexjoshy/typemines/issues"
+  },
+  "homepage": "https://github.com/codexjoshy/typemines#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "eslint": "^8.0.1",
+    "eslint-config-standard-with-typescript": "^34.0.1",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.32.2",
+    "typescript": "*"
+  }
+}
